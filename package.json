@@ -1,0 +1,18 @@
+{
+    "name": "com.redruby.facepunch",
+    "version": "0.1.0",
+    "displayName": "Redruby facepunch",
+    "description": "facepunchig framework for RedRuby comp.",
+    "unity": "2021.3",
+    "dependencies": {
+        "com.unity.netcode.gameobjects": "1.0.2"
+    },
+    "keywords": [
+        "redruby",
+        "facepunch"
+    ],
+    "author": {
+        "name": "RedRuby",
+        "email": "alpakbaba@icloud.com"
+    }
+}
